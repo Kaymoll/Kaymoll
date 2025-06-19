@@ -1,7 +1,7 @@
 # Hi 👋, nice to meet you !
 ## About me 💬
 
-I wish to do training to become Full Stack Developer working on Angular and Java, I love learning new things and be able to provide real support for innovative projects.
+I wish to do training to become Full Stack Developer working on Angular and Java, I love learning new things and be able to provide real support on innovative projects.
 
 *   🌍 I'm based in Lille, France
 
