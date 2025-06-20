@@ -24,7 +24,8 @@ I wish to do training to become Full Stack Developer working on Angular and Java
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%8A2BE2.svg?style=for-the-badge&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%230A0FFF.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact me 🔗
