@@ -7,13 +7,13 @@ I wish to do training to become Full Stack Developer working on Angular and Java
 
 ## Languages and tools 📚
 
-### <p class="notranslate">Frontend</p>
+### `Frontend`
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Backend
+### `Backend`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-E10098?style=for-the-badge&logo=angularl&logoColor=white)
