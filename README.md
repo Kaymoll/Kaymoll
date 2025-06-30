@@ -16,7 +16,9 @@ I wish to do training to become Full Stack Developer working on Angular and Java
 ### `Backend`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-E10098?style=for-the-badge&logo=angularl&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Springboot-%6DB240.svg?style=for-the-badge&logo=Springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-E10098?style=for-the-badge&logo=angular&logoColor=white)
+![VueJS](https://img.shields.io/badge/-vue.js-41B880?style=for-the-badge&logo=vue.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### `Tools`
