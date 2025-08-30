@@ -7,9 +7,9 @@
 
 ## About me 💬
 
-I wish to do training to become Developer Fullstack working on Java, I specialize in building Frontend and Backend applications.
+I wish to do training to become Developer Fullstack, I specialize in building Frontend and Backend applications.
 
-*   🌍 I'm based in Lille, France.
+*   🌍 Based in Lille, France.
 *   ⚡ Continuously expanding knowledge in Web technologies and software development.
 
 ## Languages and tools 📚
