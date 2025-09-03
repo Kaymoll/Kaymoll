@@ -16,11 +16,11 @@ I wish to do training to become a Full Stack Developer, I would like to speciali
 
 ### `Frontend`
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,angular" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vuejs,tailwind" width={100}/><br>
 
 ### `Backend`
 
-<img src="https://skillicons.dev/icons?i=java,typescript,python" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=java,typescript,python,nodejs" width={100}/><br>
 
 ### `Tools`
 
