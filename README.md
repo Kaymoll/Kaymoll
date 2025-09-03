@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Camille+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Camm+!;" />
 </h1>
 </div>
 
 ## About me 💬
 
-I wish to do training to become Developer Fullstack, I specialize in building Frontend and Backend applications.
+I wish to do training to become a Full Stack Developer, I would like to specialize in creating Frontend and Backend applications.
 
 *   🌍 Based in Lille, France.
 *   ⚡ Continuously expanding knowledge in Web technologies and software development.
