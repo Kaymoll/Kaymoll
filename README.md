@@ -35,6 +35,3 @@ I wish to do training to become a Full Stack Developer, I would like to speciali
 ## Contact me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/camillelucidarme/)
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
